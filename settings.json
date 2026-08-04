@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip":settings.json
+    "ip":
     "port": 31839,
     "version": "",
     "try-creative": false
